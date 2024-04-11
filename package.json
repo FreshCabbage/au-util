@@ -1,6 +1,6 @@
 {
   "name": "ua-util",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "check ua",
   "main": "browser-ua-validator.js",
   "scripts": {
