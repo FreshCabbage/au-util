@@ -10,5 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "shell-oooooyoung": "^1.1.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreshCabbage/au-util.git"
   }
 }
